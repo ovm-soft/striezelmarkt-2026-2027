@@ -90,7 +90,7 @@ header .kicker{margin-top:.6rem}
 /* QR code */
 #qr{display:flex;align-items:center;gap:.9rem;width:max-content;max-width:calc(100% - 2rem);margin:1.6rem auto 0;padding:.6rem .9rem .6rem .6rem;border-radius:14px;
   background:var(--card);border:1px solid rgba(255,255,255,.8);backdrop-filter:blur(4px);box-shadow:0 4px 14px rgba(20,60,120,.15);font-size:.85rem;font-weight:600}
-#qr img{width:111px;height:111px;border-radius:8px;background:#fff;image-rendering:pixelated;flex:none}
+#qr img{width:111px;height:111px;border-radius:8px;background:#fff;flex:none}
 #qr span{max-width:16ch}
 
 /* Dresden: cream cards on green */
